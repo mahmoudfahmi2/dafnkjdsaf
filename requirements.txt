@@ -2,3 +2,4 @@ streamlit
 xtarfile
 tempmail-python
 urlextract
+selenium
